@@ -14,10 +14,10 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## About:-
 
-Simply open [Lovable](https://lovable.dev/projects/0fd79c38-e999-4ec1-a9e2-87bec95b4aaf) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
+Built using cutting-edge technologies, the project leverages Vite for fast development, TypeScript for type safety, and React for building interactive UI components. I’ve used Tailwind CSS to craft a visually appealing, responsive design and integrated shadcn-ui for reusable, customizable UI components.
+ 
+#[Visit to My Linkedin](https://www.linkedin.com/in/prakashroutaray/)
 
 
