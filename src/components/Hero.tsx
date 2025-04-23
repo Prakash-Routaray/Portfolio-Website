@@ -51,7 +51,7 @@ const Hero = () => {
                 transition={{ repeat: Infinity, duration: 3 }}
               >
                 <img 
-                  src="/lovable-uploads/81f957e7-c70b-4134-8c67-4da1474c96cc.png" 
+                  src="/gallery/me2.png" 
                   alt="Prakash Routaray" 
                   className="profile-image w-64 h-64 md:w-80 md:h-80 object-cover relative z-10"
                 />
